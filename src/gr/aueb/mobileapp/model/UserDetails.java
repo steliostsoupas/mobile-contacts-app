@@ -1,4 +1,4 @@
-package model;
+package gr.aueb.mobileapp.model;
 
 public class UserDetails extends AbstractEntity{
     private String firstname;

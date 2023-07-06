@@ -1,4 +1,4 @@
-package model;
+package gr.aueb.mobileapp.model;
 
 /**
  * The MobileContact class represents a mobile contact entity.

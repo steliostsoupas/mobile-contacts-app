@@ -1,4 +1,4 @@
-package model;
+package gr.aueb.mobileapp.model;
 
 @FunctionalInterface
 public interface IdentifiableEntity {
